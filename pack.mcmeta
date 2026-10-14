@@ -1,0 +1,32 @@
+{
+    "pack":  {
+                 "pack_format":  84,
+                 "supported_formats":  [
+                                           1,
+                                           84
+                                       ],
+                 "description":  [
+                                     {
+                                         "bold":  true,
+                                         "color":  "light_purple",
+                                         "text":  "Majestic Pink Sky\n"
+                                     },
+                                     {
+                                         "text":  "made by ways",
+                                         "color":  "gray"
+                                     },
+                                     {
+                                         "text":  " | ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "discord: ",
+                                         "color":  "dark_gray"
+                                     },
+                                     {
+                                         "text":  "waystobe",
+                                         "color":  "light_purple"
+                                     }
+                                 ]
+             }
+}

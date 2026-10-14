@@ -1,0 +1,16 @@
+# Majestic Pink Sky
+
+A breathtaking, high-resolution (6K) custom sky overlay designed for maximum visual quality and performance. 
+
+## Features:
+- **Ultra High-Definition**: Crystal clear, 6144x4096 resolution ensures absolutely zero pixelation even when zoomed in.
+- **Majestic Aesthetics**: Features a gorgeous pastel pink and blue gradient, accented by vibrant, fluffy pink cherry blossom clouds.
+- **Clean and Static**: Intentionally non-rotating to provide a consistent, beautiful backdrop for your world.
+- **Seamless Integration**: Fully compatible with OptiFine (Custom Skies required).
+
+## Requirements:
+- OptiFine (Ensure Custom Skies is turned ON in Video Settings -> Details)
+- OR any compatible custom sky mod (like FabricSkyboxes/Nuit) that supports OptiFine properties.
+
+## Recommended:
+Pairs incredibly well with PvP texture packs, shaders with skybox blending disabled, or just for a relaxing, cute vibe in your survival world!
