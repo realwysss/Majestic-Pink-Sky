@@ -7,3 +7,5 @@ made by ways, discord: waystobe
 a pink sky pack. it uses optifine style sky files (`assets/minecraft/optifine/sky`), so it needs OptiFine or a mod that reads those.
 
 ![sky1](screenshots/sky1.png)
+
+all rights reserved. made by wysss.
